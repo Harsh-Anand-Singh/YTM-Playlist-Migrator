@@ -77,7 +77,7 @@ That's it! The script will now iterate through your list, search for each song, 
 
 ## License 📜
 
-Distributed under the MIT License (I don't know but everyone wrties it and was given in gemini from where I got this long readme). See `LICENSE` for more information.
+Distributed under the MIT License (I don't know but everyone writes it and was given in gemini from where I got this long readme). See `LICENSE` for more information.
 
 ---
 <p align="center">
